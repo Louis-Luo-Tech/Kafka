@@ -1,1 +1,1 @@
-["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/xiangluo/Documents/GitHub/Kafka/build.sbt","cdadc4aa44ffbd046a331901fa53f8067a105801"]],"lastModifiedTimes":[]}]
+["sbt.Task[scala.collection.Seq[scala.Tuple2[java.nio.file.Path, sbt.nio.FileStamp]]]",{"hashes":[["/Users/xiangluo/Documents/GitHub/Kafka/build.sbt","e53b71f560b37a45a5cd9376c238e62187e9e0c1"]],"lastModifiedTimes":[]}]

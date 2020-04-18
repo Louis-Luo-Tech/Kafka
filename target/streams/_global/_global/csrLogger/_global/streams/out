@@ -1,0 +1,17 @@
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.pom
+[debug] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.30/slf4j-parent-1.7.30.pom
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/lz4/lz4-java/1.7.1/lz4-java-1.7.1-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7-sources.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/com/github/luben/zstd-jni/1.4.4-7/zstd-jni-1.4.4-7-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0-javadoc.jar
+[debug] downloaded https://repo1.maven.org/maven2/org/apache/kafka/kafka-clients/2.5.0/kafka-clients-2.5.0-sources.jar
