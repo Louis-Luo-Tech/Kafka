@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="6f160250-3634-460b-aee1-e7f2b0167b89" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +35,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="inlay.hints.Scala" />
   </component>
   <component name="RunManager">
@@ -85,6 +87,7 @@
     <option name="projectSyncType">
       <map>
         <entry key="$PROJECT_DIR$/../Flink" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
         <entry key="$PROJECT_DIR$/../Scala_Spark_DataFrame" value="PREVIEW" />
       </map>
     </option>
@@ -102,6 +105,7 @@
       <workItem from="1587173318743" duration="107000" />
       <workItem from="1587173599611" duration="6386000" />
       <workItem from="1587795663227" duration="37000" />
+      <workItem from="1588034775395" duration="376000" />
     </task>
     <servers />
   </component>
@@ -149,5 +153,9 @@
       <screen x="0" y="23" width="1440" height="838" />
     </state>
     <state x="397" y="274" key="com.intellij.ide.util.TipDialog/0.23.1440.838@0.23.1440.838" timestamp="1587173599231" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1588034962495">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1588034962495" />
   </component>
 </project>
